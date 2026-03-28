@@ -26,6 +26,7 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 program:
+
 ```
 client.py:
 import socket
@@ -41,8 +42,11 @@ while True:
 
 s.close()
 ```
+
 ## Output
-<img width="1059" height="270" alt="image" src="https://github.com/user-attachments/assets/6babc384-f805-4bdf-9576-a0d48d498dd8" />
+<img width="1604" height="294" alt="image" src="https://github.com/user-attachments/assets/72055487-3b3d-4c5b-81d4-f9c48b882989" />
+
+<img width="1598" height="186" alt="image" src="https://github.com/user-attachments/assets/4c67f409-8c97-45bc-87ba-8bc83a8aac73" />
 
 ## Result
 Thus Execution of Network commands Performed 
